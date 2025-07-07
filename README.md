@@ -15,6 +15,7 @@
 - Space Systems Data & Astrobiological Exploration
 - Applied Statistics in Life Sciences & Complex Systems
 - Interdisciplinary Data Storytelling: Bridging Tech, Biology, and the Cosmos
+  
 
 ![github](https://img.shields.io/badge/Github-0e76a8?style=for-the-badge&logo=Github&logoColor=white)
 ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
