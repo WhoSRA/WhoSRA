@@ -1,23 +1,21 @@
-## Hi there 👋
-
 ![github](https://img.shields.io/badge/Github-0e76a8?style=for-the-badge&logo=Github&logoColor=white)
 ![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)
 ![gmail](https://img.shields.io/badge/Gmail-0e76a8?style=for-the-badge&logo=Gmail&logoColor=white)
-![portfolio](https://img.shields.io/badge/Portfolio-0e76a8?style=for-the-badge&logo=Portfolio&logoColor=white)
+![portfolio](https://img.shields.io/badge/Portfolio-0e76a8?style=for-the-badge&logo=Portfolio&logoColor=white)  
 
+# Sebastian Rodriguez 👋  
+⚡ Philosophy Graduate from the University of California, Berkeley, with a focus in Data Analytics. 
 
+## 💻 Experienced in data analysis tools such as:
 
-<!--
-**WhoSRA/WhoSRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+● Microsoft Excel
+● PostgreSQL
+● Tableau
+● Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Interests:
+- Applied AI & ML
+- Data-driven Optimization
+- Revenue management
+- Urban Analytics
+- Transportation System & Supply Chain Analytics
